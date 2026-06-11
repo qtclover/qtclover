@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 36">
+<rect width="960" height="36" fill="#1a1a1a"/>
+<rect x="0.5" y="0.5" width="959" height="35" fill="none" stroke="#2d2d2d" stroke-width="2"/>
+<clipPath id="clip"><rect x="2" y="2" width="956" height="32"/></clipPath>
+<g clip-path="url(#clip)">
+<g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="35s" repeatCount="indefinite"/>
+<text x="0" y="23" font-family="ui-monospace,monospace" font-size="14" fill="#777">meow ★  mrrp ★  mew ★  purrr ★  mrow ★  somewhere in germany ★  prrrp ★  meow ★  mrrp ★  mew ★  purrr ★  mrow ★  somewhere in germany ★  prrrp ★</text><text x="1200" y="23" font-family="ui-monospace,monospace" font-size="14" fill="#777">meow ★  mrrp ★  mew ★  purrr ★  mrow ★  somewhere in germany ★  prrrp ★  meow ★  mrrp ★  mew ★  purrr ★  mrow ★  somewhere in germany ★  prrrp ★</text><text x="2400" y="23" font-family="ui-monospace,monospace" font-size="14" fill="#777">meow ★  mrrp ★  mew ★  purrr ★  mrow ★  somewhere in germany ★  prrrp ★  meow ★  mrrp ★  mew ★  purrr ★  mrow ★  somewhere in germany ★  prrrp ★</text>
+</g>
+</g>
+</svg>
