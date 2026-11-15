@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="addicted" width="100%" />
 
 
 
