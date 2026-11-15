@@ -9,7 +9,7 @@
 
 i code sometimes, currently looking for work
 
-**languages i use:** java · kotlin · rust · python · javascript / typescript · html / css
+**languages i use:** java · kotlin · rust · python · javascript / typescript
 
 ### projects
 
