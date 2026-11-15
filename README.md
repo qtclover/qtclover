@@ -14,5 +14,5 @@ i code sometimes, currently looking for work
 
 ### projects
 
-- [leakhound](https://github.com/qtclover/leakhound): a fast secret scanner in rust. finds leaked api keys and tokens in your files and git history, even ones you already deleted. scans 445 mb of code in 0.14s
+- [leakhound](https://github.com/qtclover/leakhound): a fast secret scanner in rust.
 - [addicted-ascii](https://github.com/qtclover/addicted-ascii): my personal site. *credits to 21st.dev for giving me the idea* check it out here [addicted.md](https://addicted.md)
