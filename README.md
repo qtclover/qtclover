@@ -2,8 +2,6 @@
 
 <img src="banner.svg" alt="addicted" width="100%" />
 
-he/him · 17 · student · somewhere in germany
-
 <img src="marquee.svg" alt="meow" width="100%" />
 
 </div>
@@ -17,6 +15,4 @@ currently looking for work.
 
 ### projects
 
-- [addicted-ascii](https://github.com/qtclover/addicted-ascii): my personal landing page. the name "addicted" and a picture are rendered live as ascii / hex glyphs on a reflective floor, with an `[ enter ]` screen that fades in music. plain html + canvas, no dependencies.
-
-🌐 [addicted.md](https://addicted.md)
+- [addicted-ascii](https://github.com/qtclover/addicted-ascii): my personal site. *credits to 21st.dev for giving me the idea* check it out here [addicted.md](https://addicted.md)
