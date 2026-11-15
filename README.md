@@ -14,4 +14,4 @@ i code sometimes, currently looking for work
 ### projects
 
 - [leakhound](https://github.com/qtclover/leakhound): a fast secret scanner in rust.
-- [addicted-ascii](https://github.com/qtclover/addicted-ascii): my personal site. *credits to 21st.dev for giving me the idea* check it out here [addicted.md](https://addicted.md)
+- [addicted-ascii](https://github.com/qtclover/addicted-ascii): my personal site. check it out here: [addicted.md](https://addicted.md)
