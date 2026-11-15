@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="addicted" width="100%" />
 
-<img src="marquee.svg" alt="meow" width="100%" />
+
 
 </div>
 
