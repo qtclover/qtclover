@@ -8,8 +8,7 @@
 
 ### hi, i'm piet 👋
 
-i like building things for games and the web, mostly minecraft mods, discord bots and small websites.
-currently looking for work.
+i code sometimes, currently looking for work
 
 **languages i use:** java · kotlin · python · javascript / typescript · html / css
 
